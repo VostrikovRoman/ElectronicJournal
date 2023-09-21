@@ -1,0 +1,50 @@
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\Electronic Journal.exe.config
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\Electronic Journal.exe
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\Electronic Journal.pdb
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\System.Buffers.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\System.Memory.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\System.Buffers.xml
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\System.Memory.xml
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Рома\Desktop\Electronic Journal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Рома\Desktop\Electronic Journal\obj\Debug\Electronic Journal.csproj.AssemblyReference.cache
+C:\Users\Рома\Desktop\Electronic Journal\obj\Debug\Electronic Journal.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Electronic Journal\obj\Debug\Electronic Journal.csproj.CopyComplete
+C:\Users\Рома\Desktop\Electronic Journal\obj\Debug\Electronic Journal.exe
+C:\Users\Рома\Desktop\Electronic Journal\obj\Debug\Electronic Journal.pdb
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\Electronic Journal.exe.config
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\Electronic Journal.exe
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\Electronic Journal.pdb
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\Microsoft.Data.Sqlite.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\SQLitePCLRaw.core.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\System.Buffers.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\System.Memory.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\System.Numerics.Vectors.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\Microsoft.Data.Sqlite.xml
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\System.Buffers.xml
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\System.Memory.xml
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\System.Numerics.Vectors.xml
+\\tsclient\C\Users\Профком\Electronic Journal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\tsclient\C\Users\Профком\Electronic Journal\obj\Debug\Electronic Journal.csproj.AssemblyReference.cache
+\\tsclient\C\Users\Профком\Electronic Journal\obj\Debug\Electronic Journal.csproj.CoreCompileInputs.cache
+\\tsclient\C\Users\Профком\Electronic Journal\obj\Debug\Electronic Journal.csproj.CopyComplete
+\\tsclient\C\Users\Профком\Electronic Journal\obj\Debug\Electronic Journal.exe
+\\tsclient\C\Users\Профком\Electronic Journal\obj\Debug\Electronic Journal.pdb
